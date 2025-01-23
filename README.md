@@ -1,0 +1,7 @@
+- Heyo, I’m @zoelueck
+- I’m interested in Rust emacs go and linux
+- I’m currently learning go to break deeper into docker/kubernetes/devops
+- I’m looking to collaborate on reminder bot, its not much yet and if you have some constructive criticism or some improvements id love to talk to you
+- How to reach me: zoelueck 🇦🇹 proton.me 
+- Pronouns: she/her
+- Fun fact: i use gentoo btw
