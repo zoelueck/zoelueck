@@ -2,6 +2,6 @@
 - I’m interested in rust-lang, GNU emacs, go-lang and linux
 - I’m currently learning go to get deeper into docker, kubernetes and devops
 - I’m looking to collaborate on reminder bot, it's not much yet and if you have some constructive criticism or some improvements I'd love to talk to you
-- How to reach me: zoelueck 🇦🇹 proton.me
+- How to reach me: zoelueck(at)proton.me
 - Pronouns: she/her
 - Fun fact: i use gentoo btw
